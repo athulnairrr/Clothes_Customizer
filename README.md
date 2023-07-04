@@ -1,6 +1,12 @@
 # Clothes_Customizer
 This is a website which makes use of 3js to showcase a shirt on which you can easily upload your own logo or add the image to the whole shirt.
 This project is still in progress as i want to integrate the color picker 
+
+ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
+React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
+TailwindCSS - a popular utility-first CSS styling framework
+Framer Motion - the most popular library used to bring your React website to life with animations
+
 Also i want to link it to the dalle OpenAPI to be able to prompt and use the images for the shirt.
 
 1. HOME PAGE
